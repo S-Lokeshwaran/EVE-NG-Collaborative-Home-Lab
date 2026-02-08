@@ -1,5 +1,3 @@
-# EVE-NG-Collaborative-Home-Lab
-
 # EVE-NG Collaborative Home Lab
 
 ## Overview
