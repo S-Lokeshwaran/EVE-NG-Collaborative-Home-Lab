@@ -20,7 +20,8 @@ hosted on an old Linux laptop and accessed remotely using secure peer-to-peer co
 - SSH & WinSCP
 
 ## Topology
-(Topology image attached below)
+![HOME-TOPOLOGY jpg](https://github.com/user-attachments/assets/b9de0cd2-fc19-4388-8e91-30b866f3cd86)
+
 
 ## Current Status
 Initial setup and testing completed.
